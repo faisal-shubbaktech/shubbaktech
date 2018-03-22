@@ -1,2 +1,0 @@
-# shubbaktech
-Projects @ shubbaktech
